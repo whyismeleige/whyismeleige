@@ -33,7 +33,7 @@ I enjoy working on problems where I can understand the product, design the syste
 ![Skills](https://skillicons.dev/icons?i=python,nodejs,express,fastapi&perrow=8)
 
 ### Databases & Infrastructure
-![Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,supabase&perrow=8)
+![Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,supabase,vercel&perrow=8)
 
 ### Tools & Systems
 ![Skills](https://skillicons.dev/icons?i=linux,bash,git,github,aws,gcp&perrow=8)
